@@ -3,7 +3,7 @@ title: Visit Our Office
 author: Miguel Angel Martinez Serrato
 date: 2024-11-18
 tags: ['post']
-image: /images/non-profitorganizations.netlify.app_.png
+image: /images/visit-our-office.netlify.app_.png
 imageAlt: This is a test
 description: In this Project, A page was corrected in order to make it accessible and fast.
 ---

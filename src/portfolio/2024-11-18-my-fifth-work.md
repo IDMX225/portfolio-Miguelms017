@@ -3,7 +3,7 @@ title: A Colombian Recipe W/ card Flip
 author: Miguel Angel Martinez Serrato
 date: 2024-11-18
 tags: ['post']
-image: /images/non-profitorganizations.netlify.app_.png
+image: /images/recipe-card-miguelms017.netlify.app_.png
 imageAlt: This is a test
 description: Here, It was creaded a flip card which contains a colombian recipe.
 ---
