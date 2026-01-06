@@ -5,7 +5,7 @@ date: 2024-11-18
 tags: ['post']
 image: /images/recipe-card-miguelms017.netlify.app_.png
 imageAlt: This is a test
-description: Here, It was creaded a flip card which contains a colombian recipe.
+description: Here, It was created a flip card which contains a colombian recipe.
 ---
 From Valle del Cauca, to this webpage. A recipe lives in this flip card made with HTML and CSS by using animations and 3D effects.
 
